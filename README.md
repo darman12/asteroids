@@ -17,13 +17,14 @@ Planning was my weakest area for this project. In particular, I found myself add
 I need to learn how to use debugging tools. I used Visual Studio throughout the project, but I did not leverage any of its debugging tools. I used simple methods such as print statements.
 
 
-### Classes implemented by instructor
+
+## Classes implemented by instructor
 * driver.cpp *main function that starts the game. Contains the game loop.*
 * uiDraw *some functions that draw and translate basic shapes with OpenGL*
 * uiInteract *sets up an OpenGL window and sets it up to receive user input. Input logic is included in the Game class, implemented by myself*
 * Point
 
-### Classes I implemented
+## Classes I implemented
 * Game
 * FlyingObject
   * Ship
