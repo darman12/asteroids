@@ -19,7 +19,7 @@ I need to learn how to use debugging tools. I used Visual Studio throughout the 
 
 
 ## Classes implemented by instructor
-* driver.cpp *main function that starts the game *
+* driver.cpp *main function that starts the game*
 * uiDraw *some functions that draw and translate basic shapes with OpenGL*
 * uiInteract *sets up an OpenGL window and sets it up to receive user input. Input logic is included in the Game class, implemented by myself*
 * Point
