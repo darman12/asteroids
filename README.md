@@ -1,6 +1,8 @@
 # Asteroids
 School assignment to implement a "clone" of the classic video game Asteroids using C++. This was a sort of capstone project for the semester where we used the object oriented programming paradigm we had been studying. This readme is focused on the project and what I learned, you will find instructions on building the game from source at the bottom of this page.
 
+[Video demonstration](https://youtu.be/bswEN66MSfg) (opens in YouTube). Unfortunately audio and video became de-synced after upload.
+
 ## Scope of project
 James N Helfrich, faculty member of the College of Computer Science and Electrical Engineering at Brigham Young University - Idaho, provided some of the core components of the game, such as uiDraw, an abstraction over OpenGL. The graphics drawing was outside of the scope of the course; thus, the instructor provided this code. My responsibility was to design and implement additional classes and game logic that would complete the game. This started with designing the classes with class diagrams.
 
@@ -32,5 +34,3 @@ I need to learn how to use debugging tools. I used Visual Studio throughout the 
   * Rocks
 * Stars
 * Velocity
-
-## Building the game from source
